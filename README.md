@@ -6,3 +6,4 @@ A collection of solutions to problem sets for cs50.
 - population.c - lab for population week 1
 - mario.c - pset 1 pyramid builder
 - credit - pset 1 credit number validation
+- cash.c - pset 1 greedy change counter
