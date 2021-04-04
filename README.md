@@ -5,3 +5,4 @@ A collection of solutions to problem sets for cs50.
 - hello.c - lab for hello world week 1
 - population.c - lab for population week 1
 - mario.c - pset 1 pyramid builder
+- credit - pset 1 credit number validation
