@@ -7,3 +7,4 @@ A collection of solutions to problem sets for cs50.
 - mario.c - pset 1 pyramid builder
 - credit - pset 1 credit number validation
 - cash.c - pset 1 greedy change counter
+- scrabble.c - week 2 lab determine the winner based on user input according to scrabble rules.
