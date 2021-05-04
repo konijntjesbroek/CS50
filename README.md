@@ -13,3 +13,4 @@ A collection of solutions to problem sets for cs50. Be honorable with this info.
 - substitution.c pset 2 more complex substitution cipher
 - plurality.c - pset 3 simple election listing
 - runoff.c - determine winner of a ranked election using instant runoff method. 
+- volume.c - modify the volume of a .wav file
