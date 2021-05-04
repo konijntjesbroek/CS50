@@ -1,5 +1,5 @@
-# CS50
-A collection of solutions to problem sets for cs50.
+## CS50
+A collection of solutions to problem sets for cs50. Be honorable with this info. 
 
 - 00 - a scratch maze runner
 - hello.c - lab for hello world week 1
